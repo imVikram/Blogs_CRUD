@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Aaradhya",
+      "desc": "New ANgel comes here",
+      "author": "Ram",
+      "id": 3
+    },
+    {
+      "title": "New blog added here why dont know",
+      "desc": "desc me kya rakha hai, just loreum ipsum",
+      "author": "Ram",
+      "id": 4
+    },
+    {
+      "title": "React returns",
+      "desc": "loreum epsum, lehsun",
+      "author": "Ram",
+      "id": 5
+    },
+    {
+      "title": "welcome to my CRUD tuts",
+      "desc": "lehsun desc, comment nothing, do it ",
+      "author": "Shyam",
+      "id": 6
+    }
+  ]
+}
